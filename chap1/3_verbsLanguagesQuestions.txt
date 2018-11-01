@@ -1,0 +1,15 @@
+Dial 1 :
+    J : Minä olen Juan. Olen espanjasta. Puhun espanjaa.
+    K : Minä olen Kaire. Olen virolainen. Minä puhun viroa.
+    T : Minä olen Teija Suomesta. Puhun suomea.
+
+Dial 2 :
+    T : Juan, mitä kieltä sinä puhut?
+    J : Minä puhun espanjaa ja vähän suomea.
+    T : Puhutko sinä englantia?
+    J : Joo, puhun.
+
+Dial 3 :
+    T : Juan, tässä on Joost. Hän on Belgiasta.
+    J : Hei Joost. Hauska tavata. Puhutko sinä hollantia vai ranskaa?
+    J : Hollantia. Minun äidinkieli on hollanti.

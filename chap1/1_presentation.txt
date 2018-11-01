@@ -1,0 +1,24 @@
+Dial 1 :
+    T : Juan Ruiz?
+    J : Si. Kyllä, joo. Minä olen Juan
+    T : Hei, minä olen Teija, Teija Virtanen. Tervetuloa Suomeen!
+    J : Kiitos
+
+Dial 2 :
+    T : Juan, tässä on Kaire Seppel.
+    J : Anteeksi?
+    T : Hän on Kaire, Kaire Seppel.
+    K : Hei Juan! Hauska tavata.
+    J : Hei Kaire! Hauska tavata.
+
+Voc :
+    mikä = what                 mikä sinun nimi on? = what is your name?
+    kuka = who                  kuka sinä olet? = who are you?
+    sukunimi = family name      minun sukunimi on Patate = my last name is patate
+    hei = hello/hi
+    Hauska tavata = nice to meet you
+    Tässä on = here is          tässä on Patate = this (here) is Patate
+
+Gram :
+    La désinence du verbe suffit, pas forcément besoin d'utiliser le pronom:
+    minä olen Patate = olen Patate

@@ -1,0 +1,81 @@
+Dial 1 :
+    T : Kaire. Tässä on Juan. Hän on Espanjasta
+    K : Hei Juan, hauska tavata. Minä olen Virosta, Tallinnasta.
+    J : Hauska tavata, Kaire. Minä olen Valenciasta.
+
+Dial 2 :
+    J : Hei. Minä olen Juan Espanjasta. Tässä on Teija. Hän on Suomesta.
+    R : Hei. Minä olen Rolf. Olen kotoisin Saksasta. Tässä on Anna, hän on Italiasta.
+    J : Hei. Hauska tavata.
+    A : Hei. Hauska tavata.
+
+Dial 3 :
+    T : Hei Juan. Mitä kuuluu?
+    J : Hei Teija. Kiitos hyvää. Tässä on Anna. Hän on italialainen.
+    T : Hei Anna. Hauska tavata! Tässä on Kaire. Hän on virolainen.
+
+Gram :
+    Pronoms : no possessive pronouns => my=mine
+        minä = I                    minun = my/mine
+        sinä = you                  sinun = your/yours
+        hän = he/she                hänen = his/her/hers
+        se = it
+        me = we                     meidän = our/ours
+        te = you (pluriel/formel)   teidän = your/yours
+        he = they                   heidän = their
+
+    Suffixes possessifs : utilisés avec ou sans les pronoms
+        minun kotimaaNI
+        sinun kotimaaSI
+        hänen kotimaaNSA (nimeNSÄ)
+        meidän kotimaaMME
+        teidän kotimaaNNE
+        heidän kotimaaNSA (nimeNSÄ)
+
+    Olla : to be. Endings are the same for all conjug. types.
+        minä oleN
+        sinä oleT
+        hän on
+        me oleMME
+        te oleTTE
+        he oVAT
+
+    from = -sta/stä       olen Ranskasta = I am from France
+            exceptions :  Suomi => Suomesta
+                          Venäjä => Venäjältä
+
+    adjectif = -lainen/-läinen    ranskalainen = french
+                    exceptions :  Suomi => suomalainen
+                                  Ruotsi => ruostalainen
+                                  Venäjä => venäläinen
+                        
+    Voc :
+        mistä sinä olet kotoisin?/mistä sinä olet? = where are you from?
+        minkämaalainen = nationality        minkämaalainen sinä olet? = what is your nationality?
+        maa = country
+        kaupunki = town/city
+        koti = home
+        kotimaa = home country              mikä sinun kotimaa on? = what is your home country?
+        kotikaupunki = home town
+        pääkaupunki = capital (city)
+        mitä kuuluu? = how are you?
+        kiitos hyvää = fine, thank you
+        olla kotoisin +sta/stä = to be/come from
+        kansalaisuus = nationality/citizenship
+        ja = and
+        naapurimaa = neighbouring country
+        naapurimaat = neighbouring countries
+
+        Belgium     Belgia          Brysseli
+        Denmark     Tanska          Kööpenhamina
+        Estonia     Viro            Tallinna
+        France      Ranska          Pariisi
+        Germany     Saksa           Berliini
+        Italy       Italia          Rooma
+        Latvia      Latvia          Riika
+        Lithuania   Liettua         Vilna
+        Norway      Norja           Oslo
+        Russia      Venäjä          Moskova
+        Spain       Espanja         Madrid
+        Sweden      Ruotsi          Tukholma
+        GB          Iso-Britannia   Lontoo
