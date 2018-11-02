@@ -1,3 +1,5 @@
+https://github.com/Louis-JJ/finnois.git
+
 Dial 1 :
     T : Juan Ruiz?
     J : Si. Kyllä, joo. Minä olen Juan

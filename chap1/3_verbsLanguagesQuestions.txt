@@ -1,3 +1,5 @@
+https://github.com/Louis-JJ/finnois.git
+
 Dial 1 :
     J : Minä olen Juan. Olen espanjasta. Puhun espanjaa.
     K : Minä olen Kaire. Olen virolainen. Minä puhun viroa.

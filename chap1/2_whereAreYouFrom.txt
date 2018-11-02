@@ -1,3 +1,5 @@
+https://github.com/Louis-JJ/finnois.git
+
 Dial 1 :
     T : Kaire. Tässä on Juan. Hän on Espanjasta
     K : Hei Juan, hauska tavata. Minä olen Virosta, Tallinnasta.
