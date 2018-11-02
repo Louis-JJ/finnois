@@ -49,33 +49,33 @@ Gram :
                                   Ruotsi => ruostalainen
                                   Venäjä => venäläinen
                         
-    Voc :
-        mistä sinä olet kotoisin?/mistä sinä olet? = where are you from?
-        minkämaalainen = nationality        minkämaalainen sinä olet? = what is your nationality?
-        maa = country
-        kaupunki = town/city
-        koti = home
-        kotimaa = home country              mikä sinun kotimaa on? = what is your home country?
-        kotikaupunki = home town
-        pääkaupunki = capital (city)
-        mitä kuuluu? = how are you?
-        kiitos hyvää = fine, thank you
-        olla kotoisin +sta/stä = to be/come from
-        kansalaisuus = nationality/citizenship
-        ja = and
-        naapurimaa = neighbouring country
-        naapurimaat = neighbouring countries
+Voc :
+    mistä sinä olet kotoisin?/mistä sinä olet? = where are you from?
+    minkämaalainen = nationality        minkämaalainen sinä olet? = what is your nationality?
+    maa = country
+    kaupunki = town/city
+    koti = home
+    kotimaa = home country              mikä sinun kotimaa on? = what is your home country?
+    kotikaupunki = home town
+    pääkaupunki = capital (city)
+    mitä kuuluu? = how are you?
+    kiitos hyvää = fine, thank you
+    olla kotoisin +sta/stä = to be/come from
+    kansalaisuus = nationality/citizenship
+    ja = and
+    naapurimaa = neighbouring country
+    naapurimaat = neighbouring countries
 
-        Belgium     Belgia          Brysseli
-        Denmark     Tanska          Kööpenhamina
-        Estonia     Viro            Tallinna
-        France      Ranska          Pariisi
-        Germany     Saksa           Berliini
-        Italy       Italia          Rooma
-        Latvia      Latvia          Riika
-        Lithuania   Liettua         Vilna
-        Norway      Norja           Oslo
-        Russia      Venäjä          Moskova
-        Spain       Espanja         Madrid
-        Sweden      Ruotsi          Tukholma
-        GB          Iso-Britannia   Lontoo
+    Belgium     Belgia          Brysseli
+    Denmark     Tanska          Kööpenhamina
+    Estonia     Viro            Tallinna
+    France      Ranska          Pariisi
+    Germany     Saksa           Berliini
+    Italy       Italia          Rooma
+    Latvia      Latvia          Riika
+    Lithuania   Liettua         Vilna
+    Norway      Norja           Oslo
+    Russia      Venäjä          Moskova
+    Spain       Espanja         Madrid
+    Sweden      Ruotsi          Tukholma
+    GB          Iso-Britannia   Lontoo

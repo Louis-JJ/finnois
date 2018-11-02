@@ -13,3 +13,44 @@ Dial 3 :
     T : Juan, tässä on Joost. Hän on Belgiasta.
     J : Hei Joost. Hauska tavata. Puhutko sinä hollantia vai ranskaa?
     J : Hollantia. Minun äidinkieli on hollanti.
+
+Voc :
+    mitä kieltä sina puhut? = what languages do you speak?
+    puhutko sinä hollentia? = do you speak dutch?
+    vai = or
+    kieli = language
+    mitä kieltä = what languages
+    äidinkieli = mother tongue
+    vähän = little / not much
+
+Gram :
+    5 groupes de verbes, mêmes terminaisons pour ttes les personnes sauf 3ème sing.
+      inf = -a : puhuA = parler
+                 olLA = être
+    Puhua = 1er groupe : terminé par 2 voyelles à l'infinitif
+        minä puhuN ranskaa
+        sinä puhuT ranskaa
+        hän puhuU ranskaa (double la voyelle finale)
+        me puhuMME ranskaa
+        te puhuTTE ranskaa
+        he puhuVAT ranskaa
+
+    Le nom de la langue = généralement le nom du pays:
+        maa : Ranska, Venäjä, Saksa, Viro
+        kieli : ranska, venäjä, saksa, viro
+    Cependant, après le verbe "puhu", ces mots sont à la forme partitive (voir ch ...). On ajoute -a/-ä à la fin :
+        minä puhun ranskaa
+
+    La forme interrogative du verbe = suffixe -ko/-kö :
+        Puhutko sinä englantia? => (affirmatif) kyllä / joo / puhun (négatif) en / en puhu
+        Puhutteko te englantia?
+        Puhuuko Juan espanjaa?
+        Onko Aldo italialainen?
+
+    La forme négative du verbe = préposition négative + racine (1ère sing. sans terminaison) :
+        minä en puhu
+        sinä et puhu
+        hän ei puhu
+        me emme puhu
+        te ette puhu
+        he eivät puhu
