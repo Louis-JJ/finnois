@@ -48,7 +48,7 @@ Gram :
 
     adjectif = -lainen/-läinen    ranskalainen = french
                     exceptions :  Suomi => suomalainen
-                                  Ruotsi => ruostalainen
+                                  Ruotsi => ruotsalainen
                                   Venäjä => venäläinen
                         
 Voc :
