@@ -1,0 +1,71 @@
+Dial 1 :
+    T : Hei Ville ja Inga. Tässä on Juan, teidän uusi asuinkaveri.
+    I : Hei Juan. Tervetuloa
+    V : Tervetuloa ja hauska tavata
+    J : Kiitos. Hauska tavata
+    I : Juan, oletko sinä espanjalainen?
+    J : Joo, olen. Oletko sinä suomalainen?
+    I : En. Minä olen Latviasta. Ville on suomalainen
+    V : Joo, minä olen kotoisin Oulusta
+
+Dial 2 :
+    I :  Minä asun huoneessa numero 3 ja Ville huoneessa numero 4.
+    J :  Numero 1. Onko tämä minun huone?
+    V :  Ei, Karl asuu siinä huoneessa, mutta hän ei ole nyt kotona.
+    I :  Karl on kotoisin Ruotsista.
+    T :  Juan, tämä on sinun huone.
+    J :  Ahaa! Numero 2.
+
+    J :  Teija, missä huoneessa sinä asut?
+    T :  Minä en asu tässä talossa
+    J :  Ai! Missä sinä asut?
+    T :  Minä asun Käpylässä
+
+Dial 3 :
+    T : Hei hei, Juan. Nähdään huomenna!
+    J : Hei hei! Nähdään huomenna.
+    I : Hei hei, Teija. Nähdään.
+    T : Moi moi! Nähdään
+
+Voc :
+    Missä sinä asut? : where do you live? (where locatif)
+    Minä asun Käpylässä : I live in Käpylä
+    Missä huoneessa Juan asuu? : in which room dies Juan live?
+    Hän asuu huoneessa numero kaksi : ha lives in the room number 2
+    yksi : 1
+    kaksi : 2
+    kolme : 3
+    neljä : 4
+    viisi : 5
+    kuusi : 6
+    seitsemän : 7
+    kahdeksan : 8
+    yhdeksän : 9
+    kymmenen : 10
+    Ahaa : I see
+    Ai : oh! (I see)
+    Täällä : (over) here (là-bas)
+    Tässä : (in) here (ici)
+    hei hei | moi moi (friends): bye-bye
+    Nähdään : see you
+    Nähdään huomenna : see you tomorrow
+
+Gram :
+    cas inessif : -ssa / -ssä = where (locatif)
+        talossa : in a/the house
+        huonessa : in a/the room
+        Käpylässä : in Käpylä
+    Word type huone : e => ee 
+        Les mots en -e se transforment en -ee avant la désinence
+        huone : a room
+        huoneessa : in a room
+    Word type uusi => uude
+        basic form : uusi : new
+        radical : uude (+t au pluriel)
+        Le marqueur du pluriel est -t
+            naapuri : a/the neighbour => naapurit
+            uusi naapuri : a/the new neighbour => uudet naapurit
+    En finnois, les attributs (adjectifs, pronoms...) précédent un mot sont au même cas, et se déclinent.
+        huonessa : in a room => tuossa huonessa : in that room
+        talossa : in a house => tässä talossa : in this house
+        mikä huone : what/which room? => missä huonessa : in which room?
